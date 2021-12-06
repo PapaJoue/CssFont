@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'CantedFX Bold';
+  font-family: 'CantedFX-Bold';
   font-style: normal;
   font-weight: 400;
   src: url(https://papajoue.github.io/CssFont/CantedFX Bold.ttf) format('ttf');
@@ -8,7 +8,7 @@
 
 /* latin-ext */
 @font-face {
-  font-family: 'CantedFX Bold';
+  font-family: 'CantedFX-Bold';
   font-style: normal;
   font-weight: 400;
   src: url(https://papajoue.github.io/CssFont/CantedFX Bold.ttf) format('ttf');
@@ -16,7 +16,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'CantedFX Bold';
+  font-family: 'CantedFX-Bold';
   font-style: normal;
   font-weight: 400;
   src: url(https://papajoue.github.io/CssFont/CantedFX Bold.ttf) format('ttf');
